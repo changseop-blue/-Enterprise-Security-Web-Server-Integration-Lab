@@ -53,6 +53,8 @@ enterprise-security-lab/
 - **데이터 보호:** OpenSSL을 이용한 SSL/TLS 적용 및 Wireshark 패킷 분석을 통한 암호화 실증.
 - **취약점 조치:** SQL Injection 취약점 분석 후 `Prepared Statement` 적용을 통한 공격 차단.
 
+-----------
+진행중으로 내용은 수정 될 수 있습니다
 ### 3. 보안 검증 (Kali Linux)
 - 포트 스캔(`Nmap`)을 통한 불필요한 포트 및 서비스 차단 확인.
 - 웹 취약점 점검(`Nikto`)을 통한 디렉토리 리스팅 및 서버 정보 노출 방어 확인.
